@@ -1,6 +1,6 @@
 # Data Jobs Dashboard w/ Power BI
 
-![Dashboard Page 1](Images/Project%201%20page%201.png)
+https://github.com/user-attachments/assets/f34c6a52-57c9-4d73-993c-7114b9c0faee
 
 [View Interactive dashboard here on the Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiMWU5ODU0YjEtYmU0Yy00OGZmLTg0M2QtNDg0OTAwYWQ3ZGVkIiwidCI6ImM5YzhjNmY1LTNlYjEtNDAxMy1iMzU1LTFiNDhkZjlhY2U4NyJ9)
 
