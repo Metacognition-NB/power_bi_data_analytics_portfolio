@@ -33,7 +33,7 @@ This is your mission control for the data job market. It showcases key KPIs like
 
 ### Page 2: Job Title Drill Through
 
-![Dashboard Page 2](Images/Project%201%20Page%202.png)
+<img width="1207" height="680" alt="Project 1 Page 2" src="https://github.com/user-attachments/assets/ac78e812-6764-4093-8760-3a040d90d495" />
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
